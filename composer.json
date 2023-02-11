@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-nfe",
+    "name": "leandro-mafra/sped-nfe",
     "type": "library",
     "description": "API para geração e comunicação da NFe e NFCe com as SEFAZ autorizadoras.",
     "keywords": ["nfe","nfce","sped","nfephp"],
@@ -15,6 +15,10 @@
         {
             "name": "Comunidade NFePHP",
             "homepage": "https://github.com/nfephp-org/sped-nfe/graphs/contributors"
+        },
+        {
+            "name": "Leandro Mafra Rocha",
+            "homepage": "https://github.com/leandro-mafra/sped-nfe"
         }
     ],
     "require": {
