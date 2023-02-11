@@ -1,3 +1,5 @@
+Projeto original https://github.com/nfephp-org/sped-nfe
+
 # SPED-NFE 
 
 Biblioteca para geração e comunicação das NFe com as SEFAZ autorizadoras, e visa fornecer os meios para gerar, assinar e enviar os dados relativos ao projeto Sped NFe das SEFAZ.
